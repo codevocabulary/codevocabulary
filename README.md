@@ -7,7 +7,7 @@
 # <div align="center">📖 CodeVocabulary</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=prism&color=00b4d8&height=200&section=header&text=Code%20Vocabulary&fontSize=70&animation=fadeIn" width="100%" />
+  
 
   <h3>"Master the Language of Logic."</h3>
 
