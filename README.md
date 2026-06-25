@@ -52,21 +52,6 @@ I teach the fundamental "vocabulary" that every developer needs, regardless of t
 
 ---
 
-### 📊 Knowledge Progress
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codevocabulary&show_icons=true&theme=tokyonight&hide_border=true" width="400px" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codevocabulary&theme=tokyonight&hide_border=true" width="400px" />
-  
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevocabulary&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
-</div>
-
----
-
 
 
 ### 💬 "Code is just poetry that runs."
