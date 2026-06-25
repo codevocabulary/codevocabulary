@@ -71,6 +71,5 @@ Join the mission to make programming accessible to everyone:
   <img src="https://komarev.com/ghpvc/?username=codevocabulary&color=00b4d8&style=flat-square&label=FUTURE+DEVELOPERS+REACHED" />
 </div>
 
-###⭐ **Star this repo if you love learning!** ⭐
+⭐ **Star this repo if you love learning!** ⭐
 
-Would you like me to customize it further with your name or any specific details?
